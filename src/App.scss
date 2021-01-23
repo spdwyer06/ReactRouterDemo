@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+p.pretitle {
+  margin-bottom: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+nav {
+  ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+    li {
+      display: inline-block;
+    }
+  }
+}
